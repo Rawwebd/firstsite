@@ -43,9 +43,8 @@ img {
 
 
 hr {
-  border: 1px solid black;
+  border: 2px currentColor #003049;
 }
-
 /* Add your solution below */
 .image-circle { 
   
