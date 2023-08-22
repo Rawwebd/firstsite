@@ -1,1 +1,1 @@
-# firstsite
+About Pete Thinkful
