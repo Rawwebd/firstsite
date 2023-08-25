@@ -53,7 +53,7 @@ hr {
 /* Add your solution below */
 .image-circle { 
   
-  border-radius: 50%;
+  border-radius: 100%;
   border:2px solid  #003049;
   }
 
