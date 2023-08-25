@@ -8,11 +8,19 @@ body {
   text-align: center;
 }
 
+ul {
+list-style-position: inside;
+}
+
 /* Set the font family for any h1, h2, or h3 heading */
 h1,
 h2,
 h3 {
   font-family: "Playfair Display", Times, serif;
+  texr-align: 
+
+
+ul: list-style-position:inside center
 }
 
 article {
@@ -21,7 +29,7 @@ article {
 
 article div {
   text-align: center;
-  width: 80%;
+  width:40 %;
 }
 
 p {
